@@ -10,7 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.pro.entity.Server;
 import com.pro.service.ServerService;
 
-@Controllergsfgd
+@Controller
 public class DeleteController {
 
 	@Autowired
